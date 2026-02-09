@@ -17,6 +17,7 @@ Emellett lehetőséget biztosít új diákok manuális rögzítésére egy regis
 Id,Name,Email,Age
 
 1,Alice,alice@example.com,20
+
 2,Bob,bob@example.com,22
 
 - A beolvasás hibakezeléssel van ellátva (hibás fájl, hiányzó adatok).
